@@ -27,3 +27,7 @@ body{
     border-radius: 10px;
     color: white;
 }
+.btn:hover{
+    background-color: deepskyblue;
+    cursor: pointer;
+}
