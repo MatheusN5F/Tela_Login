@@ -1,6 +1,6 @@
 body{
     font-family: Arial, Helvetica, sans-serif;
-    background-image: linear-gradient(45deg, black, rgb(78, 78, 78) );
+    background-image: linear-gradient(45deg, rgb(82, 80, 80), rgb(78, 78, 78) );
 }
 .login{
     background-color: rgba(0, 0, 0, 0.8);
